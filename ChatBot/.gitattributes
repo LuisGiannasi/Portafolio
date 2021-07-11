@@ -1,0 +1,12 @@
+__pycache__ filter=lfs diff=lfs merge=lfs -text
+clasificadores_LuisGiannasi.py filter=lfs diff=lfs merge=lfs -text
+spell2.py filter=lfs diff=lfs merge=lfs -text
+Cerebro_Carreras-LuisGiannasi.ipynb filter=lfs diff=lfs merge=lfs -text
+Cerebro_SubIntencionesPago-LuisGiannasi.ipynb filter=lfs diff=lfs merge=lfs -text
+Cerebro_SubIntencionesTramite-LuisGiannasi.ipynb filter=lfs diff=lfs merge=lfs -text
+Cerebro_ultimo-cerebro-LuisGiannasi.ipynb filter=lfs diff=lfs merge=lfs -text
+chatbot_LuisGiannasi.py filter=lfs diff=lfs merge=lfs -text
+Actualizador-MONGO_DB-LuisGiannasi.ipynb filter=lfs diff=lfs merge=lfs -text
+Cerebro_Intenciones-LuisGiannasi.ipynb filter=lfs diff=lfs merge=lfs -text
+Cerebro_W5-LuisGiannasi.ipynb filter=lfs diff=lfs merge=lfs -text
+chatbot filter=lfs diff=lfs merge=lfs -text
