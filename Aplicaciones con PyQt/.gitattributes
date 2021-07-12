@@ -1,0 +1,8 @@
+App_Covid filter=lfs diff=lfs merge=lfs -text
+App_Encuesta_Satisfaccion filter=lfs diff=lfs merge=lfs -text
+App_Incendios_SQL_y_MatPLotLib filter=lfs diff=lfs merge=lfs -text
+App_Licencias filter=lfs diff=lfs merge=lfs -text
+Estimacion_de_demanda_SQLServer_MySQL_Python filter=lfs diff=lfs merge=lfs -text
+App_Carga_Modificacion_y_Consulta_BD_SQL filter=lfs diff=lfs merge=lfs -text
+App_Clima_WebScraping_SQL_MatPlotLib filter=lfs diff=lfs merge=lfs -text
+App_Consumo_Energia filter=lfs diff=lfs merge=lfs -text
