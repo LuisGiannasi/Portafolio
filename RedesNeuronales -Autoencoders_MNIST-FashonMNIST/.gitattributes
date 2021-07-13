@@ -1,0 +1,3 @@
+Autoencoders_MNIST_FashionMNIST.ipynb filter=lfs diff=lfs merge=lfs -text
+img filter=lfs diff=lfs merge=lfs -text
+resultados filter=lfs diff=lfs merge=lfs -text
